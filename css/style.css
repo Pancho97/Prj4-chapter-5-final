@@ -5,11 +5,14 @@ font-family: 'Open Sans Condensed', sans-serif; body type
 
 body {
 	background-color: antiquewhite;
-      color: #BFB7B7
+      color: #BFB7B7;
+	  margin: 30px;
+       
+		  
 }
 
 h1 {
-	color: inherit;
+	color: black;
 }
 
 .my-carousel {
@@ -29,4 +32,20 @@ h1 {
     padding-left: 0.5em;
     padding-bottom: 0.5em;
 	text-align: center;
-}
+	}
+
+.my-container {
+            border: 1px solid green;
+	}
+	
+.my-row {
+		border: 3px solid red;
+	    height: 80px
+			
+.my-col {
+            border: 3px dotted blue;
+	
+        }
+			
+	
+
